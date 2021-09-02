@@ -1,6 +1,4 @@
-# RocketSeat
+# dtmoney
 ## trilha-reactjs
 
 ### Chapter II
-
-#dtmoney
