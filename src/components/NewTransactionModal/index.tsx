@@ -27,7 +27,7 @@ export function NewTransactionModal({isOpen, onRequestClose}: NewTransactionModa
             amount,
             category,
             type,
-        })
+        });
 
         setTitle('');
         setAmount(0);
